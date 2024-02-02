@@ -2,10 +2,10 @@
 
  * 💻 I have been doing front end development for over 10 years.
  * 👨‍🎨 I have been doing design for over 15 years and have a bachelor's 👨‍🎓 degree in Communication Design. This discipline has empowered me to solve problems in the following specializations of design.
- * 📊 I have been practicing marketing and analytics for over 12 years.
    * 📱 Responsive Web & UI design
    * 👨‍💻 Graphic design 
    * 👾 Game design
+ * 📊 I have been practicing marketing and analytics for over 12 years.
  * ♿️ I am passionate about accessibility and it drives many of the design & development decisions that I make.
  * 📚 I studied and grew into a front end developer, digital marketing, and analytics due to the need that was apparent to me across multiple organizations I worked for. I 💙 bridging the gap between design, development, and marketing. 
    * It started when I noticed that most developers I worked with were too busy or unable to implement my designs well. I saw that a couple other designer friends of mine had begun to learn basic HTML, CSS, and JS to ensure parity.
