@@ -1,7 +1,7 @@
 # Hello, I'm Jonathan Logan Clark
 
  * 💻 I have been doing front end development for over 10 years.
- * 👨‍🎨 I have been doing design for over 15 years and have a bachelor's 👨‍🎓 degree in Communication Design. This discipline has empowered me to solve problems in the following specializations of design.
+ * 👨‍🎨 I have been doing design for over 15 years and have a bachelor's 👨‍🎓 degree in Liberal Arts with a focus on Communication Design. This discipline has empowered me to solve problems in the following specializations of design.
    * 📱 Responsive Web & UI design
    * 👨‍💻 Graphic design 
    * 👾 Game design
